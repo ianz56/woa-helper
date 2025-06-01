@@ -89,7 +89,7 @@
 	<string name="unmountt">UNMOUNT</string>
 	<string name="update">UPDATE</string>
 	<string name="update1">Update Tersedia</string>
-	<string name="update2">Meng-ipdate...</string>
+	<string name="update2">Meng-update...</string>
 
 	<string name="last">BACKUP TERAKHIR : %s</string>
 	<string name="slot">SLOT : %s</string>
